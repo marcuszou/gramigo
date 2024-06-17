@@ -1,0 +1,8 @@
+python=3.11
+torch
+torchvision
+torchaudio
+gramformer
+nlp
+spacy
+gradio
