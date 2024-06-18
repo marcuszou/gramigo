@@ -1,8 +1,8 @@
-# Gramigo - a Grammar Correction App with Gramformer and Gradio
+# Gramigo - a Grammar Correction App
 
 
 
-Trying to save some bad-grammared people at my best using Gramformer package.
+Trying to save some brain cells for someones at my best using Gramformer package.
 
 Gramformer is a deep learning model built using Transformers and PyTorch that allows you to improve your grammar. It takes a malformed sentence as an input and returns a sentence with corrected grammar. 
 
